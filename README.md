@@ -12,7 +12,7 @@ An Android Alerting Library
 
 This repository host the source code shown in examples in the article [Mastering Coordinator Layout], there you can find different usages of the CoordinatorLayout, like anchoring views, flexible spaces, swipe to dismiss among other useful tips.
 
-![Coordinator Examples](https://github.com/saulmm/CoordinatorExamples/blob/master/art/example.gif)
+<img src=https://github.com/saulmm/CoordinatorExamples/blob/master/art/example.gif width="300">
 
 [SlideUp-Android](https://github.com/mancj/SlideUp-Android)
 
