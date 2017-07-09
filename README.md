@@ -6,7 +6,7 @@ An Android Alerting Library
 
 <img src=/documentation/alert_default.gif width="300">
 
-![Coloured Alert](./documentation/alert_coloured.gif)
+<img src=/documentation/alert_coloured.gif width="300">
 
 [Coordinator Examples](https://github.com/saulmm/CoordinatorExamples)
 
