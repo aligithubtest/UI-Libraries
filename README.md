@@ -18,5 +18,5 @@ This repository host the source code shown in examples in the article [Mastering
 
 SlideUp is a small library that allows you to add sweet slide effect to any view. Slide your views up, down, left or right with SlideUp!
 
-<img src=https://github.com/mancj/mancj.github.io/blob/master/other/slideup-art/art1.gif width="300"> <img src=https://github.com/mancj/mancj.github.io/blob/master/other/slideup-art/art2.gif>
+<img src=https://github.com/mancj/mancj.github.io/blob/master/other/slideup-art/art1.gif width="300"> <img src=https://github.com/mancj/mancj.github.io/blob/master/other/slideup-art/art2.gif width="300">
 
