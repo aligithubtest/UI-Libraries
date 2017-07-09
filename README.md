@@ -27,3 +27,9 @@ More exquisite shadow effect, used in some special scene to enhance the user exp
 
 <img src=https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow.gif width="300"> <img src=https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow1.png width="300">
 
+**[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)**
+
+Material Design Search Bar for Android
+
+<img src=https://github.com/mancj/MaterialSearchBar/raw/master/art/preview.gif width="300">
+
