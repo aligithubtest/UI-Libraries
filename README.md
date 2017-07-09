@@ -4,7 +4,7 @@
 
 An Android Alerting Library
 
-![Default Alert](./documentation/alert_default.gif)
+<img src=/documentation/alert_default.gif width="300">
 
 ![Coloured Alert](./documentation/alert_coloured.gif)
 
