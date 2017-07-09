@@ -25,7 +25,7 @@ SlideUp is a small library that allows you to add sweet slide effect to any view
 
 More exquisite shadow effect, used in some special scene to enhance the user experience.
 
-<img src=https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow.gif width="300"> <img src=https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow1.png width="300">
+<img src=https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow.gif width="150">
 
 **[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar)**
 
