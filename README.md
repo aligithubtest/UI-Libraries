@@ -9,6 +9,7 @@ An Android Alerting Library
 
 <img src=https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_verbose.gif width="40%" align="right">
 </div>
+
 **[Coordinator Examples](https://github.com/saulmm/CoordinatorExamples)**
 
 This repository host the source code shown in examples in the article [Mastering Coordinator Layout], there you can find different usages of the CoordinatorLayout, like anchoring views, flexible spaces, swipe to dismiss among other useful tips.
