@@ -14,3 +14,10 @@ This repository host the source code shown in examples in the article [Mastering
 
 ![Coordinator Examples](https://github.com/saulmm/CoordinatorExamples/blob/master/art/example.gif)
 
+[SlideUp-Android](https://github.com/mancj/SlideUp-Android)
+
+SlideUp is a small library that allows you to add sweet slide effect to any view. Slide your views up, down, left or right with SlideUp!
+
+![SlideUp-Android](https://github.com/mancj/mancj.github.io/blob/master/other/slideup-art/art1.gif)
+![SlideUp-Android](https://github.com/mancj/mancj.github.io/blob/master/other/slideup-art/art2.gif)
+
