@@ -1,3 +1,3 @@
 # UI-Libraries
 
-[Dialog and alert](./Dialog and alert.md)
+[Dialog and alert](https://github.com/aligithubtest/UI-Libraries/blob/master/Dialog%20and%20alert.md)
