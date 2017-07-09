@@ -4,9 +4,9 @@
 
 An Android Alerting Library
 
-<img src=/documentation/alert_default.gif width="300">
+<img src=https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_default.gif width="300">
 
-<img src=/documentation/alert_coloured.gif width="300">
+<img src=https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_verbose.gif width="300">
 
 [Coordinator Examples](https://github.com/saulmm/CoordinatorExamples)
 
