@@ -4,10 +4,10 @@
 
 An Android Alerting Library
 
-<div style="height:200px">
+<div>
 <img src=https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_default.gif width="40%">
 
-<img src=https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_verbose.gif width="40%" align="right">
+<img src=https://github.com/Tapadoo/Alerter/blob/master/documentation/alert_verbose.gif width="40%">
 </div>
 
 **[Coordinator Examples](https://github.com/saulmm/CoordinatorExamples)**
