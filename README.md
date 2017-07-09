@@ -1,6 +1,6 @@
 # UI-Libraries
 
-[Alerter](https://github.com/Tapadoo/Alerter "Alerter")
+**[Alerter](https://github.com/Tapadoo/Alerter "Alerter")**
 
 An Android Alerting Library
 
