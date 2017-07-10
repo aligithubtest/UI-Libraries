@@ -15,12 +15,11 @@ Provides the most common functions around recycler view like Swipe to dismiss, D
 <img src=https://raw.githubusercontent.com/BakerJQ/Android-InfiniteCards/master/screenshot/sample.gif width="20%">
 </div>
 
-**[CardStack](https://github.com/BakerJQ/Android-InfiniteCards)**
+**[CardStack](https://github.com/mutualmobile/CardStackUI)**
 
 An iOS Passbook-like highly customisable stack of cards implementation for Android.
 
 <div>
 <img src=https://raw.githubusercontent.com/mutualmobile/CardStackUI/master/images/showcase/Card%20Click.gif?token=ABCt5vutFKLG17UfTjwuNP7Wch6_e0a5ks5Wsi1HwA%3D%3D width="40%">
-
 <img src=https://raw.githubusercontent.com/mutualmobile/CardStackUI/master/images/showcase/PrallaxDrag.gif?token=ABCt5t4-uywQ20Kw489R1_5AQ7GXdx07ks5Wsi2QwA%3D%3D width="40%">
 </div>
