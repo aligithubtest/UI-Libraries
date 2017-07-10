@@ -14,3 +14,11 @@ Android Timeline View Library (Using RecyclerView) is simple implementation used
 <div>
 <img src=https://github.com/vipulasri/Timeline-View/raw/master/art/showcase.png width="60%">
 </div>
+
+**[FoldingCell for Android](https://github.com/Ramotion/folding-cell-android)**
+
+Provides the most common functions around recycler view like Swipe to dismiss, Drag and Drop, Divider in the ui, events for when item selected and when not selected, on-click listener for item
+
+<div>
+<img src=https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif width="40%">
+</div>
