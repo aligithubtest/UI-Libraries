@@ -42,3 +42,47 @@ Sequent is a library that starts animation continuously for multiple views at re
 <div>
 <img src=https://github.com/fujiyuu75/sequent/raw/res/demo.gif width="40%">
 </div>
+
+**[Fun](https://github.com/PHELAT/Fun)**
+
+A library for android to animate expanding and collapsing views.
+<div>
+<img src=https://github.com/PHELAT/Fun/raw/master/screenshot/screenshot.gif width="40%">
+</div>
+
+**[ExpectAnim](https://github.com/florent37/ExpectAnim)**
+<div>
+<img src=https://raw.githubusercontent.com/florent37/ExpectAnim/master/media/sample.gif width="40%">
+</div>
+
+**[lottie-android](https://github.com/airbnb/lottie-android)**
+
+Render After Effects animations natively on Android and iOS
+
+<div>
+<img src=https://github.com/airbnb/lottie-android/raw/master/gifs/Example2.gif width="40%">
+</div>
+
+**[GoogleMapsAnimations](https://github.com/aarsy/GoogleMapsAnimations)**
+
+GoogleMapsAnimations is an awesome android library to show radar and multiple types of circular ripple effects on google map.
+
+<div>
+<img src=https://github.com/aarsy/GoogleMapsAnimations/raw/master/gifs/Sample3.gif width="40%">
+</div>
+
+**[InstagramLikeColorTransition](https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid)**
+
+How to create instagram like Gradient color transition in android.
+
+<div>
+<img src=https://github.com/Taishi-Y/InstagramLikeColorTransitionAndroid/raw/master/images/screenshot.gif?raw=true width="40%">
+</div>
+
+**[uCrop](https://github.com/Yalantis/uCrop)**
+
+This project aims to provide an ultimate and flexible image cropping experience.
+
+<div>
+<img src=https://github.com/Yalantis/uCrop/raw/master/preview.gif width="40%">
+</div>
