@@ -12,3 +12,9 @@ With Arc Layout explore new styles and approaches on material design
 This repository host the source code shown in examples in the article [Mastering Coordinator Layout], there you can find different usages of the CoordinatorLayout, like anchoring views, flexible spaces, swipe to dismiss among other useful tips.
 
 <img src=https://github.com/saulmm/CoordinatorExamples/blob/master/art/example.gif width="300">
+
+**[CustomBottomSheetBehavior](https://github.com/miguelhincapie/CustomBottomSheetBehavior)**
+
+Android Studio Project using Support Library focused on get Google Maps 3 states behavior including background image parallax and toolbars animations.
+
+<img src=https://raw.githubusercontent.com/akan44/CustomBottomSheetBehavior/master/CustomBottomSheetBehaviorLikeGoogleMaps3states.gif width="300">
