@@ -23,3 +23,11 @@ We specialize in the designing and coding of custom UI for Mobile Apps and Websi
 <div>
 <img src=https://github.com/Ramotion/folding-cell-android/raw/master/folding_cell_preview.gif width="40%">
 </div>
+
+**[Swipe Layout](https://github.com/rambler-digital-solutions/swipe-layout-android)**
+
+Flexible Android Widget
+
+<div>
+<img src=https://github.com/rambler-digital-solutions/swipe-layout-android/raw/master/rambler.mail.gif?raw=true width="40%">
+</div>
