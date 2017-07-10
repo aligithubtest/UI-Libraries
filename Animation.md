@@ -103,3 +103,19 @@ This project aims to provide an ultimate and flexible image cropping experience.
 <div>
 <img src=https://raw.githubusercontent.com/polyak01/IconSwitch/master/data/3J8gYHy.gif width="40%">
 </div>
+
+**[faboptions](https://github.com/JoaquimLey/FabOptions)**
+
+ beautiful switch widget with sticky animation
+
+<div>
+<img src=https://github.com/JoaquimLey/faboptions/raw/master/art/faboptions_materialup_demo.gif width="40%">
+</div>
+
+**[FabTransitionActivity](https://github.com/coyarzun89/FabTransitionActivity)**
+
+ beautiful switch widget with sticky animation
+
+<div>
+<img src=https://raw.githubusercontent.com/coyarzun89/FabTransitionActivity/master/art/fabTransitionActivity.gif width="40%">
+</div>
