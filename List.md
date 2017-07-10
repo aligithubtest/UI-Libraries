@@ -12,5 +12,5 @@ Provides the most common functions around recycler view like Swipe to dismiss, D
 Android Timeline View Library (Using RecyclerView) is simple implementation used to display view like Tracking of shipment/order, steppers etc.
 
 <div>
-<img src=https://github.com/vipulasri/Timeline-View/raw/master/art/showcase.png width="40%">
+<img src=https://github.com/vipulasri/Timeline-View/raw/master/art/showcase.png width="60%">
 </div>
