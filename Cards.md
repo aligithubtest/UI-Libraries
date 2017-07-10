@@ -23,3 +23,19 @@ An iOS Passbook-like highly customisable stack of cards implementation for Andro
 <img src=https://raw.githubusercontent.com/mutualmobile/CardStackUI/master/images/showcase/Card%20Click.gif?token=ABCt5vutFKLG17UfTjwuNP7Wch6_e0a5ks5Wsi1HwA%3D%3D width="30%">
 <img src=https://raw.githubusercontent.com/mutualmobile/CardStackUI/master/images/showcase/PrallaxDrag.gif?token=ABCt5t4-uywQ20Kw489R1_5AQ7GXdx07ks5Wsi2QwA%3D%3D width="30%">
 </div>
+
+**[SwipeableCard](https://github.com/michelelacorte/SwipeableCard)**
+
+A simple implementation of swipe card like StreetView
+
+<div>
+<img src=https://camo.githubusercontent.com/34d3793e2e1c9d3def671d01704a2474c6dc103c/687474703a2f2f692e67697068792e636f6d2f336f726e6a514c4439354f737034716c6d382e676966 width="30%">
+<img src=https://camo.githubusercontent.com/e422180793dd686c00d84c708d74d18b87f52ec1/687474703a2f2f692e67697068792e636f6d2f3236746e38514f41714c345356795273412e676966 width="30%">
+</div>
+
+**[TinderStack](https://github.com/lawloretienne/TinderStack)**
+
+
+<div>
+<img src=https://github.com/lawloretienne/TinderStack/raw/master/images/TinderStack_Screencast3.gif width="30%">
+</div>
