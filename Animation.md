@@ -9,3 +9,12 @@ SlideUp is a small library that allows you to add sweet slide effect to any view
 More exquisite shadow effect, used in some special scene to enhance the user experience.
 
 <img src=https://github.com/yingLanNull/ShadowImageView/raw/master/show/shadow.gif width="150">
+
+**[PulseView](https://github.com/Devlight/PulseView)**
+
+Widget that generates pulsation relative to your icons.
+
+<div>
+<img src=https://camo.githubusercontent.com/b5ab5cee1ff3883d829698d780146a3d42733715/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3135333237372f73637265656e73686f74732f323234323932312f6f70656e2d75726932303135303931342d332d31736133363439 width="40%">
+<img src=https://camo.githubusercontent.com/9c78f8bc12bbca3a2b6488cd84971ca877a56c90/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f373835312f73637265656e73686f74732f323235393235362f63656c2d6669616e696d6174696f6e2d322e676966 width="40%">
+</div>
