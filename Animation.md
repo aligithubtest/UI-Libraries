@@ -35,3 +35,10 @@ This library allows you to create a shadow effect for your layout based on your 
 <div>
 <img src=https://camo.githubusercontent.com/050edbd53e1aadecf8987d41f722ef47391e85c1/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f5565533777536357485a484e5446664d6b6443626a41 width="40%">
 </div>
+
+**[Sequent](https://github.com/fujiyuu75/Sequent)**
+
+Sequent is a library that starts animation continuously for multiple views at regular intervals.
+<div>
+<img src=https://github.com/fujiyuu75/sequent/raw/res/demo.gif width="40%">
+</div>
