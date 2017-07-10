@@ -4,5 +4,5 @@
 
 Android Library that lights items for tutorials or walk-throughs etc...
 <div>
-<img https://github.com/TakuSemba/Spotlight/raw/master/arts/customTarget.gif>
+<img src= https://github.com/TakuSemba/Spotlight/raw/master/arts/customTarget.gif>
 </div>
