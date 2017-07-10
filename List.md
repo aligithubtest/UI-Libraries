@@ -37,3 +37,9 @@ Flexible Android Widget
 <div>
 <img src=https://cloud.githubusercontent.com/assets/1766863/22996164/a02f1b58-f3ef-11e6-8296-5bc9ed4c87eb.gif width="40%">
 </div>
+
+**[Multi-Selection](https://github.com/Yalantis/Multi-Selection)**
+
+<div>
+<img src=https://github.com/Yalantis/Multi-Selection/raw/develop/imgs/dribble.gif width="40%">
+</div>
