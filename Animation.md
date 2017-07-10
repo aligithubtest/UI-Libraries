@@ -94,3 +94,12 @@ This project aims to provide an ultimate and flexible image cropping experience.
 <div>
 <img src=https://github.com/GwonHyeok/StickySwitch/raw/master/preview.gif width="40%">
 </div>
+
+
+**[IconSwitch](https://github.com/polyak01/IconSwitch)**
+
+ beautiful switch widget with sticky animation
+
+<div>
+<img src=https://raw.githubusercontent.com/polyak01/IconSwitch/master/data/3J8gYHy.gif width="40%">
+</div>
