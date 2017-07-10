@@ -86,3 +86,11 @@ This project aims to provide an ultimate and flexible image cropping experience.
 <div>
 <img src=https://github.com/Yalantis/uCrop/raw/master/preview.gif width="40%">
 </div>
+
+**[StickySwitch](https://github.com/GwonHyeok/StickySwitch)**
+
+ beautiful switch widget with sticky animation
+
+<div>
+<img src=https://github.com/GwonHyeok/StickySwitch/raw/master/preview.gif width="40%">
+</div>
