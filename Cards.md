@@ -39,3 +39,10 @@ A simple implementation of swipe card like StreetView
 <div>
 <img src=https://github.com/lawloretienne/TinderStack/raw/master/images/TinderStack_Screencast3.gif width="30%">
 </div>
+
+**[android-page-transition](https://github.com/xmuSistone/android-page-transition)**
+
+
+<div>
+<img src=https://github.com/xmuSistone/android-page-transition/raw/master/capture1.jpg?raw=true width="30%">
+</div>
