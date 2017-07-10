@@ -18,3 +18,11 @@ This repository host the source code shown in examples in the article [Mastering
 Android Studio Project using Support Library focused on get Google Maps 3 states behavior including background image parallax and toolbars animations.
 
 <img src=https://raw.githubusercontent.com/akan44/CustomBottomSheetBehavior/master/CustomBottomSheetBehaviorLikeGoogleMaps3states.gif width="300">
+
+**[Diagonalify](https://github.com/developer-shivam/Diagonalify)**
+
+<img src=https://github.com/developer-shivam/Diagonalify/raw/master/art/screenshot_1.png width="300">
+
+**[Oblique](https://github.com/akshay2211/oblique)**
+
+<img src=https://github.com/akshay2211/Oblique/raw/master/media/one.png width="300">
