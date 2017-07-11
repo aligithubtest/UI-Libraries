@@ -26,3 +26,8 @@ Android Studio Project using Support Library focused on get Google Maps 3 states
 **[Oblique](https://github.com/akshay2211/oblique)**
 
 <img src=https://github.com/akshay2211/Oblique/raw/master/media/one.png width="300">
+
+
+**[SlidingDrawer](https://github.com/PierfrancescoSoffritti/SlidingDrawer)**
+
+<img src=https://raw.githubusercontent.com/PierfrancescoSoffritti/SlidingDrawer/master/pics/SlidingView.gif width="300">
