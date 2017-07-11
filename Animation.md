@@ -119,3 +119,21 @@ This project aims to provide an ultimate and flexible image cropping experience.
 <div>
 <img src=https://raw.githubusercontent.com/coyarzun89/FabTransitionActivity/master/art/fabTransitionActivity.gif width="40%">
 </div>
+
+**[IWAHalfModalPresenter](https://github.com/in-and-win/IWAHalfModalPresenter)**
+
+<div>
+<img src=https://raw.githubusercontent.com/in-and-win/IWAHalfModalPresenter/master/halfmodaldemo.gif width="40%">
+</div>
+
+**[StyleableToast](https://github.com/Muddz/StyleableToast)**
+
+<div>
+<img src=https://camo.githubusercontent.com/a7edeb11d67c6192d90506df396258597ca84951/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f686f7136366e614a516b4543492f67697068792e676966 width="40%">
+</div>
+
+**[Toasty](https://github.com/GrenderG/Toasty)**
+
+<div>
+<img src=https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png width="40%">
+</div>
